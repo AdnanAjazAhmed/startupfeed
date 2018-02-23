@@ -1,0 +1,26 @@
+{
+  "name": "startupnest.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdnanAjazAhmed/startupfeed.git"
+  },
+  "author": "Adnan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdnanAjazAhmed/startupfeed/issues"
+  },
+  "homepage": "https://github.com/AdnanAjazAhmed/startupfeed#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  },
+  "devDependencies": {
+    
+  }
+}
